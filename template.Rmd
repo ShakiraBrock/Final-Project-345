@@ -15,10 +15,10 @@ Hello
 ```
 
 
-## Section Two
+## Allison's section 
 
 ```{r student2}
-
+Allison 
 ```
 
 ## Section Three
